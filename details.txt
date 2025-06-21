@@ -1,0 +1,32 @@
+Project Structure
+
+----HTML
+--index.html [Home Page]
+--sunny.html [Sunny weather]
+--rain.html [rainy weather]
+--snow.html [snowy weather]
+
+----CSS
+--styles.CSS
+
+----JS
+--we need a logo [logo.png]
+--sunny images for forecasting [sunny.png]
+--snowy images for forecast [snow.png]
+--rainy weather forecast image [rain.png]
+
+----weather-api-response
+
+
+🗒️index.html [Homepage]
+---A para about the website
+---Logo at the top
+---Nav bar to other pages
+---A 7 day weather forecast for Grantham or Stamford
+
+
+🎨 Mood Board + Wireframe
+--Use canva for mood Board
+--Colors: Green, Blue, Yellow and Brown
+--Fonts: Sans-serif
+

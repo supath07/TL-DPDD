@@ -1,0 +1,71 @@
+Project Title: Oh That weather
+
+Overview of this project:
+This is a weather-themed website created for the summer project. the purpose of this site is to help users discover fun activities
+based on weather conditions: Sunny, Rainy and Snowy.
+
+The website contains four main pages:
+- Home (index.html)
+- Sunny (sunny.html)
+- Rainy (rain.html)
+- Snowy (snow.html)
+
+Each weather page includes:
+- An explaination of weather conditions
+- Suggested activitie
+- Relevant images
+- A live weather forecast of 7-days using open-meteo api
+
+The home page acts as a central hub and lets user pick a weather type.
+
+---------------------------------------------------------------
+
+Wireframe for this project:
+
+[Header with logo + navigation]
+
+Homepage:
+- Intro Text
+- Weather type selector 
+- Footer
+
+Weather pages:
+- Weather title + description
+- activities
+- images
+- 7-days weather forecast box
+- Footer
+
+----------------------------------------------------------------
+
+Moodboard Summary:
+
+The site's visual is inspired by natural weather elements. The following moodboard idea include:
+
+- Sunny- Yellow tones, bright
+- Rainy- Blue and grey, calm
+- Snowy- light blue, white and fresh
+
+----------------------------------------------------------------
+
+Design decisions:
+
+Colors used:
+- Blue
+- Yellow
+- Green
+- Brown
+
+Logo:
+- Designed in canva
+- Consistent across pages
+
+Images used:
+- Created by Canva AI 
+
+------------------------------------------------------------------
+
+Documented by: Supath Bhandari
+College: Stamford
+Submitted to: Matthew Ellis
+
